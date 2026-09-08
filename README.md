@@ -1,3 +1,6 @@
+## Architecture
+
+![AWS Architecture Diagram](architecture.png)
 
 Follow the below steps to run a local development environment.
 
